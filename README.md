@@ -40,7 +40,7 @@ The author does not condone or encourage any violation of terms of service in on
 
 - Python 3.6+
 - Counter-Strike 1.6
-- Windows operating system
+- Linux ubunto 20+
 
 ## Installation
 
